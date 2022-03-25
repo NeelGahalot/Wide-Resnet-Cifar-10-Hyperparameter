@@ -28,4 +28,4 @@ We conclude that Wide Residual Networks offer more efficient training and higher
 ## Submitted by:
 - Kunal Kashyap (kk4564)
 - Mukta Maheshwari (mm11070)
-- Neelanchal Gehlot (ng2436)
+- Neelanchal Gahalot (ng2436)
